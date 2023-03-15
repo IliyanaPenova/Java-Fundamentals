@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AssociativeArrays" isTestSource="false" packagePrefix="ExerciseAssociativeArrays" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicSyntax" isTestSource="false" packagePrefix="BasicSyntaxExercises" />
+      <sourceFolder url="file://$MODULE_DIR$/DataTypesAndVariables" isTestSource="false" packagePrefix="DataTypesAndVariablesExercises" />
+      <sourceFolder url="file://$MODULE_DIR$/Exams" isTestSource="false" packagePrefix="SoftUniExam" />
+      <sourceFolder url="file://$MODULE_DIR$/Lists" isTestSource="false" packagePrefix="ListsExercises" />
+      <sourceFolder url="file://$MODULE_DIR$/Methods" isTestSource="false" packagePrefix="MethodsExercise" />
+      <sourceFolder url="file://$MODULE_DIR$/RegularExpressions" isTestSource="false" packagePrefix="RegularExpressionsExercises" />
+      <sourceFolder url="file://$MODULE_DIR$/TextProcessing" isTestSource="false" packagePrefix="TextProcessingExercises" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
